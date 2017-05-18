@@ -1,0 +1,4 @@
+aws_access_key = "AKXXXXXXXXXXXXXXXXHA"
+aws_secret_key = "8KxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxLc"
+
+ip_ranges = ["145.94.10.10/30", "0.0.0.0/0" ]
