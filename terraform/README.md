@@ -1,4 +1,4 @@
-# Farmerbank - Infra-as-code repository
+# Provision infrastructural components via Terraform
 
 ## Getting started
 
